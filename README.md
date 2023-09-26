@@ -5,11 +5,13 @@ layout: default
 
 ---
 
-![Data_example](Data_example.png)
-
 The SRNI-CAR dataset aims to make up for the inability of existing data sets in the automotive industry to meet a variety of business analysis needs.
 It contains a large amount of information related to China's auto industry from 2016 to 2022, including sales data, online reviews, industry news, and more.
 To learn more about this dataset and to get inspiration from application examples of its use in automotive analysis, please refer to our [paper](#Citation).
+
+![Data_example](Data_example.png)
+
+
 
 # Contributions
 
