@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![logo](logo.png)
 ![Wordclouds](Wordclouds.png)
 
 The SRNI-CAR dataset aims to make up for the inability of existing data sets in the automotive industry to meet a variety of business analysis needs.
