@@ -22,7 +22,7 @@ To learn more about this dataset and to get inspiration from application example
 
 # Dataset Overview
 ## Sales data
-| Variables                   | Description                                                                                        | 
+| Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Car series                  | Name of the car series.                                                                            |
 | Brand                       | Name of the brand.                                                                                 |
